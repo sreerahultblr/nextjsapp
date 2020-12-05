@@ -36,7 +36,7 @@ export default function Layout({ children, home }) {
           </>
         ) : (
           <>
-            <Link href="/">
+            <Link href="/"> 
               <a>
                 <img
                   src="/images/propic.jpg"
